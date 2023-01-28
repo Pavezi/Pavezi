@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 <p>🤖Software Engineer <a>
 </a></p>
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I’m currently working on andorid apps (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Flutter using Dart.
+- 🤝 I’m looking to collaborate on data science and android projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Pavezi)
 
