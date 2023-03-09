@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 <p>🤖Software Engineer <a>
 </a></p>
-- 🔭 I’m currently working on web development (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Vue using TypeScript.
-- 🤝 I’m looking to collaborate on data science and new aplications projects. 
+- 🔭 I’m currently working on web development (also, I am brushing up my data structures and project management skills regularly).
+- 🌱 I’m currently using Vue and TypeScript.
+- 🤝 I’m open to collaborate on new applications projects and content creation.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Pavezi)
 
