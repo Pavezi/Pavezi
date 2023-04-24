@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 <p>🤖Software Engineer <a>
 </a></p>
-- 🔭 I’m currently working on web development (Vue, TS, PSQL, AWS).
-- 🌱 I have in my belt Python, Javescript, SQL, Java, Vue and TypeScript.
-- 🤝 I’m open to collaborate on new applications projects and content creation.
+<p>- 🔭 I’m currently working on web development (Vue, TS, PSQL, AWS).</p>
+<p>- 🌱 I have in my belt Python, Javescript, SQL, Java, Vue and TypeScript.</p>
+<p>- 🤝 I’m open to collaborate on new applications projects and content creation.</p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Pavezi)
 
