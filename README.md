@@ -4,7 +4,7 @@
 </a></p>
 <p>- 🔭 I’m currently working as a Fullstack (Vue, TS, PSQL, AWS).</p>
 <p>- 🌱 I have in my belt Python, Javescript, SQL, Java, Vue and TypeScript.</p>
-<p>- 🤝 I’m open to collaborate on new applications projects and content creation.</p>
+<p>- 🤝 I’m open to collaborate on new applications, projects and content creation.</p>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vV_i_Pp) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=linktee&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-pavezi-53976b162) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius.pavezi/) 
 
