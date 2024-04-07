@@ -6,10 +6,6 @@
 <p>- 🌱 I have in my belt Python, Javescript, SQL, Java, Vue and TypeScript.</p>
 <p>- 🤝 I’m open to collaborate on new applications, projects and content creation.</p>
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=linktee&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-pavezi-53976b162) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius.pavezi/) 
+[<img src="https://img.shields.io/badge/blog-%230077B5.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />](https://distritodev.blogspot.com/)(https://distritodev.blogspot.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-pavezi-53976b162) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius.pavezi/) 
 
 ### 🤙 Wanna talk?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/viniciuspavezi/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
