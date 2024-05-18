@@ -6,6 +6,14 @@
 <p>- 🌱 I have in my belt Python, Javescript, SQL, Java, Vue and TypeScript.</p>
 <p>- 🤝 I’m open to collaborate on new applications, projects and content creation.</p>
 
+<div align="center">
+  <a href="https://github.com/Pavezi>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pavezi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pavezi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavezi&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
 [<img src="https://img.shields.io/badge/blog-%230077B5.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />](https://distritodev.blogspot.com/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-pavezi-53976b162) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius.pavezi/) 
 
 ### 🤙 Wanna talk?
