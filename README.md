@@ -38,10 +38,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI) 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavezi&theme=transparent&bg_color=16161f&border_color=0ab3d1&show_icons=true&icon_color=D1640A&title_color=0ab3d1&text_color=e5e5e0) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavezi&layout=donut&bg_color=16161f&border_color=0ab3d1&title_color=0ab3d1&text_color=e5e5e0)
-
 ## Conecte-se comigo
 
 [<img src="https://img.shields.io/badge/blog-%230077B5.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />](https://distritodev.blogspot.com/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-pavezi-53976b162) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vinicius.pavezi/) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/pavezivinicius/)
