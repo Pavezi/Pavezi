@@ -2,7 +2,7 @@
 <p>🤖Software Engineer <a>
 </a></p>
 <p>- 👩‍💻 I’m currently working as a Fullstack.</p>
-<p>Information Systems background, I worked in both startups and multinationals. Today focused on JavaScript stacks such as fullstack, I have also worked on product planning and data manipulation and modeling. Certified agilist. Always seeking to broaden horizons.</p>
+<p>Information Systems background, I worked in both startups and multinationals. Today focused on JavaScript stacks as a fullstack, I have also worked on product planning and data manipulation and modeling. Certified AWS and agilist. Always seeking to broaden horizons.</p>
 <p>- 🤝 I’m open to collaborate on new applications, projects and content creation.</p>
 
 ## Habilidades
